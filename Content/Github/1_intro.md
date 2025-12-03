@@ -1,3 +1,7 @@
+--- 
+authors: Freek Pols
+updated: December 3, 2025
+---
 # Portfolio opzetten (1h)
 
 Dit is de GitHub repository voor het thermodynamica deel van IP2.
