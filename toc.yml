@@ -65,3 +65,4 @@ project:
         children:
           - file: Content/Labs/Verdamping.ipynb
           - file: Content/Labs/cappucino.ipynb
+          - file: Content/Labs/waxine.ipynb
